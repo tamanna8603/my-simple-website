@@ -10,4 +10,9 @@
   border: 15px solid grey;
   margin: 15px;
   padding: 10px 5px;
+  
+}
+.flower{
+  background-color: burlywood;
+  font-style: italic;
 }
