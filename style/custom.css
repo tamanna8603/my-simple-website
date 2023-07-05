@@ -4,3 +4,10 @@
   margin: 10px;
   padding: 10px 6px;
 }
+#hobby{
+  /*border-color: cadetblue;*/
+  background-color: rgb(222, 135, 147);
+  border: 15px solid grey;
+  margin: 15px;
+  padding: 10px 5px;
+}
